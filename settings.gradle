@@ -1,0 +1,3 @@
+rootProject.name = "VideoPlayer"
+include ':app'
+include ':RtpLib'
